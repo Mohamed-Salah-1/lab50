@@ -1,0 +1,7 @@
+lab50:
+  cmd: python
+  window: browser
+  - editor
+    - readme
+    - terminal
+  
